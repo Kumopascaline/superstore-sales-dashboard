@@ -60,8 +60,9 @@ Stock up inventory by October every year.
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](<img width="1102" height="617" alt="Superstsore Dashboard" src="https://github.com/user-attachments/assets/730f16c9-c164-48d8-ae81-f91558a1ee81" />
-)
+![Dashboard Preview]
+<img width="1102" height="617" alt="Superstsore Dashboard" src="https://github.com/user-attachments/assets/ece14dea-ecbf-4a66-a7d8-2dc61acb79e4" />
+
 
 ---
 
